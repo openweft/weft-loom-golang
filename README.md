@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/openweft/brand/main/social/weft-loom-golang.png" alt="weft-loom-golang" width="720"></p>
+
 # weft-loom-golang
 
 Go compile sandbox for weft-loom (Go 1.26 stable + CGO=0 default). Consumed by [weft-loom-server](https://github.com/openweft/weft-loom-server) via weft-agent when a compile job picks this language.
